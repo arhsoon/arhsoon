@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 💻 Software Systems Developer | UI/UX Developer | Cloud & AI Enthusiast
 
 I am a software systems developer with a passion for building scalable, efficient, and user-friendly applications. I also work in UI/UX design, focusing on creating clean and intuitive user experiences. I’m highly interested in cloud computing and artificial intelligence, and I enjoy exploring modern tools and technologies to improve development workflows.
