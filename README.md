@@ -10,45 +10,22 @@ Artificial Intelligence & Machine Learning, Cloud Computing (AWS Architecture), 
 ---
 
 ## 🛠️ Technologies & Skills
+<p>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30"/>
+  " width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
 
-### 💻 Programming Languages
- - TypeScript, JavaScript, Java
- - Python
- - PHP
- - Dart
- - C++, C#
-
-### ⚙️ Frameworks & Technologies
- - Angular, Ionic Framework
- - ASP.NET / ASP.NET MVC, .NET Framework / .NET Core
- - Git & GitHub, VS Code
-
-### ☁️ Cloud
- - AWS (Cloud Architecture basics & services)
-
-### 🤖 AI Tools I Use
- - ChatGPT (OpenAI), DeepSeek, Google Gemini, GitHub Copilot, Claude AI, Google AI Studio
-
----
-
-## 🧠 Development Workflow
-- Agile & Scrum methodologies
-- Sprint planning & task estimation
-- Daily stand-ups & team collaboration
-- Code reviews & peer feedback
-- Continuous integration mindset
-- Iterative development and improvement
-
-## 🎨 UI/UX Skills
-- Wireframing & Prototyping
-- Responsive UI Design
-- User-centered design thinking
-- Clean and modern interface design
-
----
-
-## 📈 Goals
-Continuously improving my skills in cloud architecture, AI integration, and modern software development while building impactful real-world projects using industry best practices.
 <!--
 **arhsoon/arhsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
